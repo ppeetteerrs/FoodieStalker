@@ -1,0 +1,12 @@
+{
+    "postsCrawled": 10,
+    "postsAdded": 0,
+    "postsFailed": 0,
+    "postsSkipped": 10,
+    "locationsCrawled": 0,
+    "locationsAdded": 0,
+    "locationsFailed": 0,
+    "locationsSkipped": 0,
+    "postsFailedItems": [],
+    "locationsFailedItems": []
+}

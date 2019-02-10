@@ -1,0 +1,15 @@
+{
+    "postsCrawled": 5,
+    "postsAdded": 3,
+    "postsFailed": 2,
+    "postsSkipped": 0,
+    "locationsCrawled": 3,
+    "locationsAdded": 3,
+    "locationsFailed": 0,
+    "locationsSkipped": 0,
+    "postsFailedItems": [
+        "BrPD1oOhlUA",
+        "BrKmo2whBPM"
+    ],
+    "locationsFailedItems": []
+}

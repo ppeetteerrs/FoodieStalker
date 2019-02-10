@@ -1,0 +1,811 @@
+[{
+    "dist": 852.6865313673688,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "TRADEHUB21 #01-35, 8 Boon Lay Way",
+            "zip_code": "609964"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7534866, 1.3274],
+            "type": "Point"
+        },
+        "id": "757908",
+        "lat": 1.3274,
+        "lng": 103.7534866,
+        "name": "TOBY'S The Dessert Asylum",
+        "posts": ["1490331760910445621"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/9234b7cf7959efd1f9b0f0e95e91b2ae/5CA1155A/t51.2885-15/e35/s150x150/17818749_395143357551124_203132406704635904_n.jpg",
+        "slug": "tobys-the-dessert-asylum",
+        "website": "http://www.tobys.com.sg"
+    }
+}, {
+    "dist": 895.9497172976663,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": " 8 boon lay way, tradehub 21, #01-33",
+            "zip_code": "609964"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7529248672, 1.3280444827],
+            "type": "Point"
+        },
+        "id": "39827851",
+        "lat": 1.3280444827,
+        "lng": 103.7529248672,
+        "name": "Southwest Tavern",
+        "posts": ["1919020822010593462"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/6cf9288ae2e5eee09b0a605547ba131a/5C92CB71/t51.2885-15/e35/s150x150/40467094_332685047467692_6155731545932955648_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "southwest-tavern",
+        "website": "www.southwesttavern.com.sg"
+    }
+}, {
+    "dist": 1580.4685166525082,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.743540335, 1.3329343861],
+            "type": "Point"
+        },
+        "id": "214427338",
+        "lat": 1.3329343861,
+        "lng": 103.743540335,
+        "name": "Paris Baguette At Jem",
+        "posts": ["1531038879008036719"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/80d995783e0bb384b4a33dd63e31c47b/5CA91C45/t51.2885-15/e35/s150x150/17437960_114553539088659_6697328446671945728_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "paris-baguette-at-jem",
+        "website": "www.jem.sg/stores/paris-baguette"
+    }
+}, {
+    "dist": 1583.647939970878,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "50 Jurong Gateway Road #03－18",
+            "zip_code": "608549"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.74333, 1.33285],
+            "type": "Point"
+        },
+        "id": "237003375",
+        "lat": 1.33285,
+        "lng": 103.74333,
+        "name": "Sushi Tei",
+        "posts": ["1821863658181180662"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/0488894694f9c9f17ca0c784ae075774/5C9D7A3D/t51.2885-15/e35/s150x150/16907011_597495113788305_1674705605245272064_n.jpg",
+        "slug": "sushi-tei",
+        "website": "http://www.sushitei.com/"
+    }
+}, {
+    "dist": 1583.647939970878,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "50 Jurong Gateway Road",
+            "zip_code": "608549"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.74333, 1.33285],
+            "type": "Point"
+        },
+        "id": "600226267006715",
+        "lat": 1.33285,
+        "lng": 103.74333,
+        "name": "En Sakaba",
+        "posts": ["1776104126524247589"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/261c78cdc4df43b65fe04bc94a3be26f/5CA9C834/t51.2885-15/e35/s150x150/30973303_198535964272912_8034066429764435968_n.jpg",
+        "slug": "en-sakaba",
+        "website": ""
+    }
+}, {
+    "dist": 1585.1296700496348,
+    "doc": {
+        "address": {
+            "city_name": "Jurong East, Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "JEM",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.74346554, 1.3329412871],
+            "type": "Point"
+        },
+        "id": "248066714",
+        "lat": 1.3329412871,
+        "lng": 103.74346554,
+        "name": "老火汤 at JEM Mall",
+        "posts": ["1015904394930057591", "929736848334418112"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/65fc3ac89c591abfe8143114c05a5c90/5C8B11B8/t51.2885-15/e35/c135.0.810.810/s150x150/25018852_163717187717757_7993966819792650240_n.jpg",
+        "slug": "at-jem-mall",
+        "website": "http://www.laohuotang.com.sg"
+    }
+}, {
+    "dist": 1586.703433089742,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "#03-02, Westgate",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.74324689, 1.33283427],
+            "type": "Point"
+        },
+        "id": "1769421273361125",
+        "lat": 1.33283427,
+        "lng": 103.74324689,
+        "name": "Yolé",
+        "posts": ["1746451999610077930"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/4256369124ca91d2278a01e82dba49d6/5CA11AD2/t51.2885-15/e35/s150x150/42913693_208970556687779_3065371368689045419_n.jpg",
+        "slug": "yole",
+        "website": "http://www.yoleweb.com/"
+    }
+}, {
+    "dist": 1613.965887503224,
+    "doc": {
+        "address": {
+            "city_name": "Jurong East, Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "50 Jurong Gateway Road, JEM, Level 5, Singapore 608549",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7439349533, 1.3334805899],
+            "type": "Point"
+        },
+        "id": "236925618",
+        "lat": 1.3334805899,
+        "lng": 103.7439349533,
+        "name": "Platinum Movie Suites at JEM Cathay",
+        "posts": ["971690293295346148", "971690176626586081"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/32652ff4901a01c66a1cbd65fdd70593/5CA1072F/t51.2885-15/e35/c0.134.1080.1080/s150x150/17438001_830470087106748_8442035365937676288_n.jpg",
+        "slug": "platinum-movie-suites-at-jem-cathay",
+        "website": "http://www.cathaycineplexes.com.sg/platinum.aspx"
+    }
+}, {
+    "dist": 1634.2304439714949,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "JEM #B1-41",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.74326873, 1.3333391],
+            "type": "Point"
+        },
+        "id": "222542380",
+        "lat": 1.3333391,
+        "lng": 103.74326873,
+        "name": "Rumah Sayang At Jem",
+        "posts": ["1803430099863684260"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/a2a367dceff5cfcd1e90b408d212fa76/5C8B0C87/t51.2885-15/e35/s150x150/20225777_1345532492231959_5422163179159420928_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "rumah-sayang-at-jem",
+        "website": ""
+    }
+}, {
+    "dist": 1645.671483170926,
+    "doc": {
+        "address": {
+            "city_name": "Jurong East, Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "50 Jurong Gateway Road #03-05",
+            "zip_code": "608549"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7431126402, 1.333370449],
+            "type": "Point"
+        },
+        "id": "1859693280920701",
+        "lat": 1.333370449,
+        "lng": 103.7431126402,
+        "name": "Seoul Yummy at jem",
+        "posts": ["1710660726890319238"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/2cb2c6a52beddf8851eb68e439999889/5C99DD42/t51.2885-15/e35/c0.92.1080.1080/s150x150/16230910_1930066313890559_366964612815388672_n.jpg",
+        "slug": "seoul-yummy-at-jem",
+        "website": "http://www.seoulyummy.com/"
+    }
+}, {
+    "dist": 1645.9251399717057,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "50 Jurong Gateway Road",
+            "zip_code": "608549"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7430814912, 1.3333555214],
+            "type": "Point"
+        },
+        "id": "216827288",
+        "lat": 1.3333555214,
+        "lng": 103.7430814912,
+        "name": "Din Tai Fung 鼎泰丰 at Jem",
+        "posts": ["1547165742377822426"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/07e21425a7c4e9510224f45cda692e35/5C8E55A9/t51.2885-15/e35/c135.0.809.809/s150x150/18722939_178396716022775_8781709236863238144_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "din-tai-fung-at-jem",
+        "website": "http://www.dintaifung.com.sg"
+    }
+}, {
+    "dist": 1648.945539240404,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "2 Jurong East Street 21，IMM #03-01,",
+            "zip_code": "609601"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.74696, 1.3349],
+            "type": "Point"
+        },
+        "id": "831990010236835",
+        "lat": 1.3349,
+        "lng": 103.74696,
+        "name": "Haidilao Singapore",
+        "posts": ["1903133775244824755"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/50942ee87a1c6b45abf727e042d71001/5CA076B0/t51.2885-15/e35/s150x150/41898831_349351139145487_7325360449120226185_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "haidilao-singapore",
+        "website": ""
+    }
+}, {
+    "dist": 1655.5603274083599,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "50 Jurong Gateway Road  #01-06",
+            "zip_code": "608549"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.743153791, 1.3334956519],
+            "type": "Point"
+        },
+        "id": "226992399",
+        "lat": 1.3334956519,
+        "lng": 103.743153791,
+        "name": "The Coffee Bean &amp; Tea Leaf at Jem",
+        "posts": ["1206196203299041363", "1064120453029720122"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/f43fc7548df33ba46768d49751e014af/5C945D1A/t51.2885-15/e35/s150x150/41994196_292232748277869_1965223394565467718_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "the-coffee-bean-tea-leaf-at-jem",
+        "website": ""
+    }
+}, {
+    "dist": 1668.5428035280408,
+    "doc": {
+        "address": {
+            "city_name": "Jurong East, Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "2 Jurong East Street 21, #02-15A IMM",
+            "zip_code": "609601"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.745839867, 1.334776042],
+            "type": "Point"
+        },
+        "id": "878529038942944",
+        "lat": 1.334776042,
+        "lng": 103.745839867,
+        "name": "FLO - Food Lovers Only",
+        "posts": ["1622571600620486705"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/06d6cfb3f46ac3db078e8f3688e06103/5C8BBE91/t51.2885-15/e35/c135.0.809.809/s150x150/18723384_100100487256048_6116733406094032896_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "flo-food-lovers-only",
+        "website": "http://www.imm.sg/en/tenants/food-lovers-only-flo/"
+    }
+}, {
+    "dist": 1683.3320781039479,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "Westgate, No. 3, Gateway Drive, #02-07",
+            "zip_code": "608532"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7428793256, 1.3336291751],
+            "type": "Point"
+        },
+        "id": "236896213",
+        "lat": 1.3336291751,
+        "lng": 103.7428793256,
+        "name": "Menya Musashi Kodou@Westgate",
+        "posts": ["1343289527934083643"],
+        "profilePicURL": null,
+        "slug": "menya-musashi-kodouwestgate",
+        "website": "https://menyamusashi.com.sg"
+    }
+}, {
+    "dist": 1685.4126372725452,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7429043642, 1.3336649764],
+            "type": "Point"
+        },
+        "id": "320997828",
+        "lat": 1.3336649764,
+        "lng": 103.7429043642,
+        "name": "Miam Miam At Westgate",
+        "posts": ["840266157568656552"],
+        "profilePicURL": null,
+        "slug": "miam-miam-at-westgate",
+        "website": ""
+    }
+}, {
+    "dist": 1688.9462210581999,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "3155 Commonwealth Avenue West #01-11 The Clementi Mall",
+            "zip_code": "129588"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.76459, 1.31517],
+            "type": "Point"
+        },
+        "id": "431843483822995",
+        "lat": 1.31517,
+        "lng": 103.76459,
+        "name": "O Mamma Mia Singapore",
+        "posts": ["1501492457807273624"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/4a828d6946c53f8345532f07b827f67e/5CAA683C/t51.2885-15/e35/s150x150/17817889_401737910195568_1212926849181548544_n.jpg",
+        "slug": "o-mamma-mia-singapore",
+        "website": ""
+    }
+}, {
+    "dist": 1698.1918333882174,
+    "doc": {
+        "address": {
+            "city_name": "Jurong East New Town",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "westgate",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7427273176, 1.3336966879],
+            "type": "Point"
+        },
+        "id": "1267965733320989",
+        "lat": 1.3336966879,
+        "lng": 103.7427273176,
+        "name": "Honolulu Cafe Singapore, Westgate",
+        "posts": ["1506214623850152638"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/7527d95829c370d916c353fa42828802/5C916847/t51.2885-15/e35/s150x150/17881139_744870129006142_541418861459668992_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "honolulu-cafe-singapore-westgate",
+        "website": ""
+    }
+}, {
+    "dist": 1699.5558830415348,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "3 Gateway Drive",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7427229182, 1.3337083698],
+            "type": "Point"
+        },
+        "id": "239299968",
+        "lat": 1.3337083698,
+        "lng": 103.7427229182,
+        "name": "Eggs &amp; Berries at Westgate",
+        "posts": ["845173937457361246", "845173809942131034"],
+        "profilePicURL": null,
+        "slug": "eggs-berries-at-westgate",
+        "website": ""
+    }
+}, {
+    "dist": 1701.2666277185353,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.742702553, 1.3337144385],
+            "type": "Point"
+        },
+        "id": "1017210299",
+        "lat": 1.3337144385,
+        "lng": 103.742702553,
+        "name": "Mak's Noodles at Westgate",
+        "posts": ["1203393030230405290", "1100426915649450280"],
+        "profilePicURL": null,
+        "slug": "maks-noodles-at-westgate",
+        "website": ""
+    }
+}, {
+    "dist": 1706.0368407464118,
+    "doc": {
+        "address": {
+            "city_name": "Clementi, Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "3155 Commonwealth Avenue West, #03-54/55 The Clementi Mall",
+            "zip_code": "129588"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7648299363, 1.3153905523],
+            "type": "Point"
+        },
+        "id": "3087744",
+        "lat": 1.3153905523,
+        "lng": 103.7648299363,
+        "name": "Crystal Jade Clementi Mall",
+        "posts": ["648182578073404948"],
+        "profilePicURL": null,
+        "slug": "crystal-jade-clementi-mall",
+        "website": "http://www.crystaljade.com/"
+    }
+}, {
+    "dist": 1707.742032083256,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "Westgate",
+            "zip_code": "608532"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7426540231, 1.3337538856],
+            "type": "Point"
+        },
+        "id": "235932008",
+        "lat": 1.3337538856,
+        "lng": 103.7426540231,
+        "name": "Paul at Westgate",
+        "posts": ["1899933167427883873"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/1d8c4e43422d96627a29fc79bfcc3cbc/5C99C18B/t51.2885-15/e35/c0.135.1080.1080/s150x150/42753823_357983351410924_7484131582675326934_n.jpg",
+        "slug": "paul-at-westgate",
+        "website": "http://www.paul-bakeries.com/"
+    }
+}, {
+    "dist": 1708.2610354395358,
+    "doc": {
+        "address": {
+            "city_name": "Jurong East, Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "9 Science Centre Road",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7374609551, 1.328808343],
+            "type": "Point"
+        },
+        "id": "824198",
+        "lat": 1.328808343,
+        "lng": 103.7374609551,
+        "name": "Jurong Country Club",
+        "posts": ["1237687108757386142", "1237687066956952474", "1237687020593116057"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/71524661e83b29ccf76986de557b7250/5C8D9106/t51.2885-15/e35/s150x150/16464904_416176498730003_5085161417842098176_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "jurong-country-club",
+        "website": "www.jcc.org.sg"
+    }
+}, {
+    "dist": 1710.3745976521845,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "Jurong Gateway, #02-04, West Gate",
+            "zip_code": "608532"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7425413532, 1.3337154282],
+            "type": "Point"
+        },
+        "id": "213098096",
+        "lat": 1.3337154282,
+        "lng": 103.7425413532,
+        "name": "Starbucks Westgate Mall",
+        "posts": ["1451323486332810555", "834090731970786102"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/389aff0817400bcf106ae89a6ab135fa/5C9CA910/t51.2885-15/e35/c135.0.809.809/s150x150/17125959_201718966977514_4404069442527428608_n.jpg",
+        "slug": "starbucks-westgate-mall",
+        "website": "http://www.starbucks.com.sg/"
+    }
+}, {
+    "dist": 1712.6803935374528,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7424942072, 1.3337116803],
+            "type": "Point"
+        },
+        "id": "531277059",
+        "lat": 1.3337116803,
+        "lng": 103.7424942072,
+        "name": "美人鍋 塚田農場 Westgate",
+        "posts": ["1498614356602328334", "1340727946431816741"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/d5e45719c505eccbdaec54931021bf51/5C985D4D/t51.2885-15/e35/s150x150/17493488_999583413510489_1629298120070266880_n.jpg",
+        "slug": "westgate",
+        "website": ""
+    }
+}, {
+    "dist": 1716.0837266279993,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "#03-03, Westgate",
+            "zip_code": "608532"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.742546, 1.333778],
+            "type": "Point"
+        },
+        "id": "1082218668606613",
+        "lat": 1.333778,
+        "lng": 103.742546,
+        "name": "一風堂 Ippudo",
+        "posts": ["1896451442929371770"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/0dfecee7ff83cf3422fba2260111f111/5C932D63/t51.2885-15/e35/s150x150/43779101_1929523627123412_4520497583813244925_n.jpg",
+        "slug": "ippudo",
+        "website": "http://ippudo.com.sg/"
+    }
+}, {
+    "dist": 1716.7967488883394,
+    "doc": {
+        "address": {
+            "city_name": "Jurong East, Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "3 Gateway Drive #03-03 Westgate Singapore 608532",
+            "zip_code": "608532"
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7425461704, 1.3337855672],
+            "type": "Point"
+        },
+        "id": "217942239",
+        "lat": 1.3337855672,
+        "lng": 103.7425461704,
+        "name": "Ippudo At Westgate",
+        "posts": ["1560156782504263592", "1520992577436094258", "1492799925566032356", "1473176421392624000", "1392542909983441036", "1192538937601585176", "1146113638341308666", "1142080812277068177", "1041310225552929381", "857770056104309624", "857769829746111337", "788349184927363344"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/ad4895506f7fff39684f4f194392cfe2/5CAF8A94/t51.2885-15/e35/s150x150/17267635_275876499514248_8550662411772755968_n.jpg?_nc_ht=scontent-sin2-1.cdninstagram.com",
+        "slug": "ippudo-at-westgate",
+        "website": "http://www.ippudo.com.sg/"
+    }
+}, {
+    "dist": 1718.3946589255659,
+    "doc": {
+        "address": {
+            "city_name": "Jurong East, Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "#02-13, Westgate",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.7434484256, 1.3342920618],
+            "type": "Point"
+        },
+        "id": "219770949",
+        "lat": 1.3342920618,
+        "lng": 103.7434484256,
+        "name": "Paradise Dynasty 乐天皇朝 at Westgate Mall",
+        "posts": ["1117213861453263670"],
+        "profilePicURL": "https://instagram.fsin5-1.fna.fbcdn.net/vp/52945c717fad019c261ed26657fff920/5CAD2835/t51.2885-15/e35/c135.0.809.809/s150x150/19052159_295481367529609_435053446618415104_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net",
+        "slug": "paradise-dynasty-at-westgate-mall",
+        "website": "https://www.paradisegroup.com.sg/"
+    }
+}, {
+    "dist": 1718.8067994327246,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "Westgate Jurong 3 Gateway Drive #01-13/14",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.743245255, 1.334192695],
+            "type": "Point"
+        },
+        "id": "240004523",
+        "lat": 1.334192695,
+        "lng": 103.743245255,
+        "name": "Tim Ho Wan 添好运-West Gate",
+        "posts": ["1274019651005739423", "1164215512080610181", "799232538631500212", "799232414362661298"],
+        "profilePicURL": "https://scontent-sin2-1.cdninstagram.com/vp/a60ac1a750605d322952d6550f38353a/5CA732E3/t51.2885-15/e35/s150x150/17494317_1710817712265304_6653462068777189376_n.jpg",
+        "slug": "tim-ho-wan-west-gate",
+        "website": ""
+    }
+}, {
+    "dist": 1718.8067994327246,
+    "doc": {
+        "address": {
+            "city_name": "Singapore",
+            "country_code": "SG",
+            "exact_city_match": false,
+            "exact_country_match": false,
+            "exact_region_match": false,
+            "region_name": "",
+            "street_address": "",
+            "zip_code": ""
+        },
+        "coords": {
+            "$reql_type$": "GEOMETRY",
+            "coordinates": [103.743245255, 1.334192695],
+            "type": "Point"
+        },
+        "id": "504443375",
+        "lat": 1.334192695,
+        "lng": 103.743245255,
+        "name": "Royce Westgate",
+        "posts": ["1203393071435247788"],
+        "profilePicURL": null,
+        "slug": "royce-westgate",
+        "website": ""
+    }
+}]
