@@ -1,0 +1,1 @@
+rethinkdb --driver-port 28016 --cluster-port 29016 --no-http-admin

@@ -1,0 +1,1 @@
+git pull && pm2 flush && pm2 kill && tsc && pm2 start && pm2 dash
