@@ -4,7 +4,7 @@
   "description": "A Web Scraper to Extract Foodie Info",
   "main": "run.js",
   "scripts": {
-    "start": "tsc && node dist/run.js",
+    "start": "tsc && node dist/run.js -u explodingbelly",
     "build": "tsc",
     "deploy": "npm i && tsc && pm2 start",
     "migrate": "tsc && node dist/migrate.js",

@@ -19,7 +19,7 @@ class DBConnection {
       this.testConnection = await r.connect({
         port: parseInt(process.env.DB_PORT, 10),
       });
-      logger.log('DBConnection', 'Connection Sucessful');
+      logger.log('DBConnection', 'Connection Successful');
     } catch (error) {
       logger.error('DBConnection', 'Cannot connect to DB', error, true);
     }
